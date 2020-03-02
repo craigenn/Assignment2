@@ -1,0 +1,10 @@
+List of shapes:
+
+5-sided polygon: 15.0cm,   -- Angles: 108°
+5-sided polygon: 15.0cm,   -- Angles: 108°
+
+The largest shape was 5-sided polygon with an area of :387.11cm^2.
+
+
+
+The average time taken to draw a shape was 16.5115 seconds
