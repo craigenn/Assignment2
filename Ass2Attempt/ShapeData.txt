@@ -1,0 +1,9 @@
+List of shapes:
+
+6-sided polygon: 74.0cm,   -- Angles: 120°
+
+The largest shape was 6-sided polygon: 74.0cm with an area of :14227.07cm^2.
+
+Most frequently drawn was User-defined Polygons drawn: 1 times.
+
+The average time taken to draw a shape was 49.144 seconds
